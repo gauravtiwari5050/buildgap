@@ -27,14 +27,7 @@
 //= require creator/app_setup
 //= require creator/directives
 //= require creator/factories/dao
-//= require creator/factories/toolbar
-//= require creator/factories/page_header
-//= require creator/factories/page_content
-//= require creator/factories/page_tabbed_footer
-//= require creator/factories/device_page
-//= require creator/factories/device_test_page
-//= require creator/factories/app_ui_service
-//= require creator/factories/app_data_service
+//= require creator/factories/page
 //= require creator/controllers/external_files_controller
 //= require creator/controllers/main_controller
 
